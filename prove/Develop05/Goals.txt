@@ -1,0 +1,4 @@
+GS:wow:task:False:1000
+STEPS:1|False:2|False:3|False:4|False:5|False:6|False:
+G:Super Goal:Everything:False:1000
+GR:wow:wow:False:900:1:
